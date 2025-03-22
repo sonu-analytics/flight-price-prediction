@@ -68,5 +68,4 @@ Sample visualizations included in the project:
 ## 🚀 How to Run the Project
 1. Clone the repository:  
 ```bash
-[git clone https://github.com/sonu-analytics/flight-price-prediction.git
-](https://github.com/sonu-analytics/flight-price-prediction/tree/main)
+https://github.com/sonu-analytics/flight-price-prediction.git
